@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JayBarks</title>
-    <link>jaybarks.com/categories/</link>
+    <link>https://godd9170.github.io/jaybarks-static/categories/</link>
     <description>Recent content in Categories on JayBarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="jaybarks.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://godd9170.github.io/jaybarks-static/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>jaybarks.com/categories/development/</link>
+      <link>https://godd9170.github.io/jaybarks-static/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/categories/development/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>jaybarks.com/categories/golang/</link>
+      <link>https://godd9170.github.io/jaybarks-static/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/categories/golang/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/categories/golang/</guid>
       <description></description>
     </item>
     

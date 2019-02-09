@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JayBarks</title>
-    <link>jaybarks.com/tags/</link>
+    <link>https://godd9170.github.io/jaybarks-static/tags/</link>
     <description>Recent content in Tags on JayBarks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="jaybarks.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://godd9170.github.io/jaybarks-static/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>jaybarks.com/tags/development/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/development/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>jaybarks.com/tags/go/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/go/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>jaybarks.com/tags/golang/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/golang/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>jaybarks.com/tags/hugo/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/hugo/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>jaybarks.com/tags/templates/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/templates/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>jaybarks.com/tags/themes/</link>
+      <link>https://godd9170.github.io/jaybarks-static/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>jaybarks.com/tags/themes/</guid>
+      <guid>https://godd9170.github.io/jaybarks-static/tags/themes/</guid>
       <description></description>
     </item>
     
